@@ -17,7 +17,7 @@ We have also prepared training weights for you to use directly, you can find the
 
 
 # Main
-./yolov5-master/detect_opencv_hpjy.py
+The main function implementation code is located in `./yolov5-master/detect_opencv_hpjy.py`.
 
 
 ## Thank

@@ -12,7 +12,7 @@ We have also prepared training weights for you to use directly, you can find the
 
 ## Display
 
-![image]()
+![image](https://github.com/PrymceQ/GameForPeaceDetection/blob/master/figure/result.png)
 
 
 
